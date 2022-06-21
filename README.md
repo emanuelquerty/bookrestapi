@@ -45,7 +45,7 @@ the ones in the standard library. The only external package that was used is the
 ### Create a new Book Entry
 
 ```JSON
-   URL - *http://localhost:3000/api/v1/books*
+    URL - *http://localhost:3000/api/v1/books*
     Method - POST
     Body - (content-type = application/json)
     {
@@ -58,7 +58,7 @@ the ones in the standard library. The only external package that was used is the
 ### Update Entry
 
 ```JSON
-   URL - *http://localhost:3000/api/v1/books/2*
+    URL - *http://localhost:3000/api/v1/books/2*
     Method - PUT
     Body - (content-type = application/json)
    {
@@ -71,7 +71,7 @@ the ones in the standard library. The only external package that was used is the
 ### Delete Entry
 
 ```JSON
-     URL - *http://localhost:3000/api/v1/books/2*
+    URL - *http://localhost:3000/api/v1/books/2*
     Method - DELETE
 ```
 
