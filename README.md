@@ -26,14 +26,14 @@
 
 ### Get All Books
 
-```
+```JSON
     URL - *http://localhost:3000/api/v1/books*
     Method - GET
 ```
 
 ### Get Book By ID
 
-```
+```JSON
     URL - *http://localhost:3000/api/v1/books/2*
     Method - GET
 ```
