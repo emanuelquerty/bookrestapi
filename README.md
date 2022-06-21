@@ -1,5 +1,9 @@
 # bookrestapi
 
+This is a rest api application built in go (golang) with postgresql database and the net/http package from
+the standard library. The goal was to build the application without using any external library other than
+the ones in the standard library. The only external package that was used is the pq (postgres "github.com/lib/pq") driver since there is no way to interact with a database without using an external driver as of this time.
+
 ## How to run the application
 
 1.  Clone the application with `https://github.com/emanuelquerty/bookrestapi.git`
