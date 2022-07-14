@@ -20,9 +20,9 @@ the ones in the standard library. The only external package that was used is the
 
 5.  To run the application, please use the following command:
 
-        ```shell
-            go run main.go
-        ```
+     ```shell
+        go run main.go
+     ```
 
     > Note: By default the server is listening on port **3000**.
 
